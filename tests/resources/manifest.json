@@ -1,0 +1,37 @@
+{
+  "syntax_version": "1.0", 
+  "type": "book", 
+  "content_mime_type": "text/markdown", 
+  "language": {
+    "slug": "en", 
+    "dir": "ltr", 
+    "name": "English"
+  }, 
+  "slug": "obs", 
+  "name": "Open Bible Stories", 
+  "versification_slug": "ufw", 
+  "status": {
+    "source_translations": [
+      {
+        "resource_slug": "obs", 
+        "language_slug": "en", 
+        "version": "4"
+      }
+    ], 
+    "translate_mode": "all", 
+    "version": "4", 
+    "license": "CC BY-SA", 
+    "contributors": [
+      "Distant Shores Media"
+    ], 
+    "checking_level": "3", 
+    "checking_entity": [
+      "Distant Shores Media", 
+      "Wycliffe Associates"
+    ], 
+    "pub_date": "2015-08-26", 
+    "comments": "Original source text.", 
+    "checks_performed": []
+  }, 
+  "finished_chunks": []
+}
